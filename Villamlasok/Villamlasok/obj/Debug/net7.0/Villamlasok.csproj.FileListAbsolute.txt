@@ -1,0 +1,14 @@
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\bin\Debug\net7.0\Villamlasok.exe
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\bin\Debug\net7.0\Villamlasok.deps.json
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\bin\Debug\net7.0\Villamlasok.runtimeconfig.json
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\bin\Debug\net7.0\Villamlasok.dll
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\bin\Debug\net7.0\Villamlasok.pdb
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.AssemblyInfoInputs.cache
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.AssemblyInfo.cs
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.csproj.CoreCompileInputs.cache
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.dll
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\refint\Villamlasok.dll
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.pdb
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\Villamlasok.genruntimeconfig.cache
+C:\Users\C20OszlikT\source\repos\Villamlasok\Villamlasok\obj\Debug\net7.0\ref\Villamlasok.dll
